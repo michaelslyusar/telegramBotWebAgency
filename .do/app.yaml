@@ -1,0 +1,16 @@
+name: telegram-bot
+services:
+  - name: bot
+    environment_slug: python
+    instance_size_slug: basic-xxs
+    instance_count: 1
+    source_dir: /
+    run_command: python main.py
+    http_port: 0
+    envs:
+      - key: BOT_TOKEN
+        scope: RUN_TIME
+        type: SECRET
+      - key: GCP_SA_JSON
+        scope: RUN_TIME
+        type: SECRET
