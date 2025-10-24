@@ -1,0 +1,3 @@
+2025-09-06 22:15:28 | ERROR    | __main__:main:37 | Bot crashed: 'Bot' object has no attribute 'start_polling'
+2025-09-06 22:21:19 | ERROR    | __main__:main:36 | Bot crashed: Router is already attached to <Dispatcher '0x25ba0f0c970'>
+2025-09-06 22:22:26 | ERROR    | __main__:main:33 | Bot crashed: object Bot can't be used in 'await' expression

@@ -1,0 +1,53 @@
+2025-10-24 11:37:05 | INFO     | app.logging_config:setup_logging:75 | Logging configured successfully
+2025-10-24 11:37:05 | INFO     | __main__:main:21 | Starting WWWizards Telegram Bot...
+2025-10-24 11:37:05 | INFO     | __main__:main:22 | Environment: development
+2025-10-24 11:37:05 | INFO     | __main__:main:23 | Debug mode: False
+2025-10-24 11:37:05 | INFO     | __main__:main:27 | Database was connected successfully.
+2025-10-24 11:37:05 | INFO     | app.bot:create_bot:35 | Bot instance created successfully
+2025-10-24 11:37:05 | INFO     | app.bot:create_dispatcher:61 | Dispatcher configured with all routers and middlewares
+2025-10-24 11:37:05 | INFO     | __main__:main:35 | Bot @WWWizardsbot is ready
+2025-10-24 11:37:05 | INFO     | __main__:main:41 | Bot is starting...
+2025-10-24 11:40:49 | INFO     | __main__:main:50 | Bot shutdown complete
+2025-10-24 11:40:49 | INFO     | __main__:<module>:57 | Application interrupted by user
+2025-10-24 12:11:15 | INFO     | app.logging_config:setup_logging:75 | Logging configured successfully
+2025-10-24 12:11:15 | INFO     | __main__:main:21 | Starting WWWizards Telegram Bot...
+2025-10-24 12:11:15 | INFO     | __main__:main:25 | Database was connected successfully.
+2025-10-24 12:11:15 | INFO     | app.bot:create_bot:35 | Bot instance created successfully
+2025-10-24 12:11:15 | INFO     | app.bot:create_dispatcher:61 | Dispatcher configured with all routers and middlewares
+2025-10-24 12:11:15 | INFO     | __main__:main:33 | Bot @WWWizardsbot is ready
+2025-10-24 12:11:15 | INFO     | __main__:main:39 | Bot is starting...
+2025-10-24 12:11:48 | INFO     | __main__:main:48 | Bot shutdown complete
+2025-10-24 12:11:48 | INFO     | __main__:<module>:55 | Application interrupted by user
+2025-10-24 12:11:52 | INFO     | app.logging_config:setup_logging:75 | Logging configured successfully
+2025-10-24 12:11:52 | INFO     | __main__:main:21 | Starting WWWizards Telegram Bot...
+2025-10-24 12:11:52 | INFO     | __main__:main:25 | Database was connected successfully.
+2025-10-24 12:11:52 | INFO     | app.bot:create_bot:35 | Bot instance created successfully
+2025-10-24 12:11:52 | INFO     | app.bot:create_dispatcher:61 | Dispatcher configured with all routers and middlewares
+2025-10-24 12:11:52 | INFO     | __main__:main:33 | Bot @WWWizardsbot is ready
+2025-10-24 12:11:52 | INFO     | __main__:main:39 | Bot is starting...
+2025-10-24 12:13:15 | INFO     | app.logging_config:log_user_action:85 | User action: show_about_us
+2025-10-24 12:13:17 | INFO     | app.logging_config:log_user_action:85 | User action: show_services
+2025-10-24 12:51:55 | INFO     | __main__:main:48 | Bot shutdown complete
+2025-10-24 12:51:55 | INFO     | __main__:<module>:55 | Application interrupted by user
+2025-10-24 12:52:43 | INFO     | app.logging_config:setup_logging:75 | Logging configured successfully
+2025-10-24 12:52:43 | INFO     | __main__:main:21 | Starting WWWizards Telegram Bot...
+2025-10-24 12:52:43 | INFO     | __main__:main:22 | Environment: development
+2025-10-24 12:52:43 | INFO     | __main__:main:23 | Debug mode: False
+2025-10-24 12:52:43 | INFO     | __main__:main:27 | Database was connected successfully.
+2025-10-24 12:52:43 | INFO     | app.bot:create_bot:35 | Bot instance created successfully
+2025-10-24 12:52:43 | INFO     | app.bot:create_dispatcher:61 | Dispatcher configured with all routers and middlewares
+2025-10-24 12:52:44 | INFO     | __main__:main:35 | Bot @WWWizardsbot is ready
+2025-10-24 12:52:44 | INFO     | __main__:main:41 | Bot is starting...
+2025-10-24 12:53:13 | INFO     | app.logging_config:log_user_action:85 | User action: show_about_us
+2025-10-24 12:53:18 | INFO     | app.logging_config:log_user_action:85 | User action: show_services
+2025-10-24 12:53:35 | INFO     | app.logging_config:log_user_action:85 | User action: show_about_us
+2025-10-24 12:53:41 | INFO     | app.logging_config:log_user_action:85 | User action: show_main_menu
+2025-10-24 12:53:50 | INFO     | app.logging_config:log_user_action:85 | User action: show_about_us
+2025-10-24 12:53:53 | INFO     | app.logging_config:log_user_action:85 | User action: show_services
+2025-10-24 12:53:55 | INFO     | app.logging_config:log_user_action:85 | User action: show_dev_design_services
+2025-10-24 12:53:56 | INFO     | app.logging_config:log_user_action:85 | User action: show_dev_design_nextjs_services
+2025-10-24 12:54:01 | INFO     | app.logging_config:log_user_action:85 | User action: show_services
+2025-10-24 12:54:06 | INFO     | app.logging_config:log_user_action:85 | User action: show_dev_design_services
+2025-10-24 12:54:07 | INFO     | app.logging_config:log_user_action:85 | User action: show_marketing_smm_services
+2025-10-24 12:54:15 | INFO     | __main__:main:50 | Bot shutdown complete
+2025-10-24 12:54:15 | INFO     | __main__:<module>:57 | Application interrupted by user
