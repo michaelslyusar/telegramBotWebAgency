@@ -51,3 +51,13 @@
 2025-10-24 12:54:07 | INFO     | app.logging_config:log_user_action:85 | User action: show_marketing_smm_services
 2025-10-24 12:54:15 | INFO     | __main__:main:50 | Bot shutdown complete
 2025-10-24 12:54:15 | INFO     | __main__:<module>:57 | Application interrupted by user
+2025-10-24 13:13:00 | INFO     | app.logging_config:setup_logging:75 | Logging configured successfully
+2025-10-24 13:13:00 | INFO     | __main__:main:21 | Starting WWWizards Telegram Bot...
+2025-10-24 13:13:00 | INFO     | __main__:main:22 | Environment: development
+2025-10-24 13:13:00 | INFO     | __main__:main:23 | Debug mode: False
+2025-10-24 13:13:01 | INFO     | __main__:main:27 | Database was connected successfully.
+2025-10-24 13:13:01 | INFO     | app.bot:create_bot:35 | Bot instance created successfully
+2025-10-24 13:13:01 | INFO     | app.bot:create_dispatcher:61 | Dispatcher configured with all routers and middlewares
+2025-10-24 13:13:01 | INFO     | __main__:main:35 | Bot @WWWizardsbot is ready
+2025-10-24 13:13:01 | INFO     | __main__:main:41 | Bot is starting...
+2025-10-24 13:13:13 | INFO     | __main__:<module>:57 | Application interrupted by user
