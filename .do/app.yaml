@@ -7,6 +7,7 @@ services:
     source_dir: /
     run_command: python main.py
     http_port: 0
+    routes: [ ]
     envs:
       - key: BOT_TOKEN
         scope: RUN_TIME
