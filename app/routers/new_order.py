@@ -11,7 +11,7 @@ from app.constants import CallbackData,COMPANY_INFO
 import app.db.requests as rq
 from app.keyboards.new_request import get_new_request_keyboard
 from app.logging_config import log_user_action
-from app.services.gsheets import add_to_sheet
+# from app.services.gsheets import add_to_sheet
 
 router = Router()
 
@@ -55,7 +55,7 @@ async def show_new_request_stg5(message: Message, state:FSMContext):
     """ Add request to DB """
     await rq.set_new_request(message.from_user.id, data["first_name"], data["last_name"], data["email"],data["service"], data["description"])
     """ Add request to google sheets """
-    await add_to_sheet(message.from_user.id,data["first_name"], data["last_name"], data["email"],data["service"], data["description"])
+    # await add_to_sheet(message.from_user.id,data["first_name"], data["last_name"], data["email"],data["service"], data["description"])
 
     await message.answer(f'Thank you, your request was registered in the system. a representitive will contact you '
                          f'soon\n\nService Requested:{data["service"]}\nName: {data["first_name"]} {data["last_name"]} \nEmail: {data["email"]}\nDescription: {data["description"]}',
