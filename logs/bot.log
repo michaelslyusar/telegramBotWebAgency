@@ -72,3 +72,14 @@
 2025-10-24 15:35:39 | INFO     | __main__:main:41 | Bot is starting...
 2025-10-24 15:35:42 | INFO     | __main__:main:50 | Bot shutdown complete
 2025-10-24 15:35:42 | INFO     | __main__:<module>:57 | Application interrupted by user
+2025-10-24 15:55:27 | INFO     | app.logging_config:setup_logging:75 | Logging configured successfully
+2025-10-24 15:55:27 | INFO     | __main__:main:21 | Starting WWWizards Telegram Bot...
+2025-10-24 15:55:27 | INFO     | __main__:main:22 | Environment: development
+2025-10-24 15:55:27 | INFO     | __main__:main:23 | Debug mode: False
+2025-10-24 15:55:27 | INFO     | __main__:main:27 | Database was connected successfully.
+2025-10-24 15:55:27 | INFO     | app.bot:create_bot:35 | Bot instance created successfully
+2025-10-24 15:55:27 | INFO     | app.bot:create_dispatcher:61 | Dispatcher configured with all routers and middlewares
+2025-10-24 15:55:28 | INFO     | __main__:main:35 | Bot @WWWizardsbot is ready
+2025-10-24 15:55:28 | INFO     | __main__:main:41 | Bot is starting...
+2025-10-24 15:55:32 | INFO     | __main__:main:50 | Bot shutdown complete
+2025-10-24 15:55:32 | INFO     | __main__:<module>:57 | Application interrupted by user
